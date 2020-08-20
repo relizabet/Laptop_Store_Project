@@ -1,0 +1,25 @@
+{
+  "name": "Laptop_Store_Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relizabet/Laptop_Store_Project.git"
+  },
+  "keywords": [],
+  "author": "Rachel E Campbell <rachel@relizabet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relizabet/Laptop_Store_Project/issues"
+  },
+  "homepage": "https://github.com/relizabet/Laptop_Store_Project#readme"
+}
